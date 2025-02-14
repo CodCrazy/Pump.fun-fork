@@ -17,7 +17,7 @@ const LIQUIDITY_SEED = "LiqudityProvider"
 const SOL_VAULT_PREFIX = "liquidity_sol_vault"
 function sleep(ms: number) {
   return new Promise(resolve => setTimeout(resolve, ms));
-}
+} 
 
 describe("bonding_curve", () => {
   anchor.setProvider(anchor.AnchorProvider.env());
