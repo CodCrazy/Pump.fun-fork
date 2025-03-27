@@ -11,14 +11,12 @@ In here, you can see the creation transaction, buy and sell transaction and with
 ## 👋 Contact Me
 
 ### 
-Telegram: https://t.me/earthzeta
+Telegram: https://t.me/andersn0093
 ###
 <div style={{display:flex; justify-content:space-evenly}}> 
-    <a href="https://t.me/earthzeta" target="_blank"><img alt="Telegram"
+    <a href="https://t.me/andersn0093" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://discordapp.com/users/339619501081362432" target="_blank"><img alt="Discord"
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-    <a href="mailto:johncriswick25@gmail.com" target="_blank"><img alt="Email"
+    <a href="mailto:andersn0093@gmail.com" target="_blank"><img alt="Email"
         src="https://img.shields.io/badge/Gmail-CE5753?style=for-the-badge&logo=gmail&logoColor=white"/></a>
             
 </div>
